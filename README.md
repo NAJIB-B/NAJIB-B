@@ -17,7 +17,7 @@ I'm a frontend stack developer...
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, Boostrap, React
+Javascript, HTML, CSS, Boostrap, React, Redux
 
 
 
