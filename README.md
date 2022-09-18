@@ -20,6 +20,7 @@ I'm a frontend stack developer...
 Javascript, HTML, CSS, Boostrap, React, Redux
 
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=NAJIB-B)](https://git.io/streak-stats)
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=NAJIB-B&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NAJIB-B&langs_count=5&theme=tokyonight)]()
