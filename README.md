@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m @NAJIB-B
 - 👀 I’m interested in frontend development
-- 🌱 I’m currently learning react
+- 🌱 I’m currently learning typescript 
 - 💞️ I’m looking to collaborate on frontend projects.
 - 📫 How to reach me @najib2557 on twitter and my email is najibajibasu@gmail.com
 
