@@ -49,22 +49,40 @@
 <br />
 <p align="center">
  <img  width="400" src="https://i.ibb.co/bm26NDb/najib-Quiz-Img.png" alt="najib-Quiz-Img" border="0">
- <a href="https://github.com/NAJIB-B/najibquiz">
+
+   <a href="https://github.com/NAJIB-B/najibquiz">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=NAJIB-B&repo=najibquiz&theme=tokyonight" />
 </a>
-
  <img width="400" src="https://i.ibb.co/gzknvnq/react-Memory-Game-Img.png" alt="react-Memory-Game-Img" border="0">
  <a href="https://github.com/NAJIB-B/memory-game-react">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=NAJIB-B&repo=memory-game-react&theme=tokyonight" />
 </a>
+<img width="400" src="https://i.ibb.co/02TKMdX/tic-Tac-Toe.png" alt="tic-Tac-Toe" border="0">
+ <a href="https://github.com/NAJIB-B/tic-tac-toe">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=NAJIB-B&repo=tic-tac-toe&theme=tokyonight" />
+</a>
+<img width="400" src="https://i.ibb.co/CBy0tYy/weather-App.png" alt="weather-App" border="0">
+ <a href="https://github.com/NAJIB-B/weatherApp">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=NAJIB-B&repo=weatherApp&theme=tokyonight" />
+</a>
 </p>
 <br />
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NAJIB-B&repo=memory-game-react)](https://github.com/NAJIB-B/memory-game-react)
 
+<h2 align="center">About me 😇</h2>
+<br />
+<p>In my latest project, I created an <a href="https://github.com/NAJIB-B/najibquiz">A simple Quiz app</a> which small schools can utilize in testing their students so as to adopt a more modern way of testing students, without having to print mutiple papers or pay to use a software. It was designed base on the standard question fomart in Nigeria. I created this project to participate in my first hackathon - AWS Amplify x Hashnode Hackathon September 2022. 🥳</p>
+<br />
+<p>:muscle: I have a very strong passion for solving real life problems.</p>
+<p>:eyes: I’m currently building projects ... and planing on moving on to web3.</p>
+<p>:raising_hand: I’m looking to collaborate with ... Open Source.</p>
+<p>:speech_balloon: Want to connect with people and add value to anything I can... I am happy to help.</p>
+<p>:ghost: Fun fact: ... I am currently studying Physics, but I switched careers and learned coding. </p>
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NAJIB-B&theme=tokyonight&showicons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=NAJIB-B)](https://git.io/streak-stats)
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=NAJIB-B&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NAJIB-B&langs_count=5&theme=tokyonight)]()
 
 
