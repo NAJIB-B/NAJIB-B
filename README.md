@@ -87,7 +87,17 @@
 
 
 
+<br />
+<p align="center">
+I love connecting with different people, so say hi! I'll be happy to meet you more! 😊
+</p>
 
+<br />
+<h2 align="center"> 📕 Latest Blog Posts</h2>
+
+<!-- DEV:START -->
+- [Using object of object type in Typescript](https://najibbala.hashnode.dev/using-object-of-object-type-in-typescript)
+- [About my simple quiz app](https://najibbala.hashnode.dev/quiz-maker-for-small-schools)
 
 
 <!---
