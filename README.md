@@ -47,9 +47,20 @@
 <p align="center">Check them out, I bet it will be fun</p>
 <br />
 <br />
+<p align="center">
+ <img  width="400" src="https://i.ibb.co/bm26NDb/najib-Quiz-Img.png" alt="najib-Quiz-Img" border="0">
+ <a href="https://github.com/NAJIB-B/najibquiz">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=NAJIB-B&repo=najibquiz&theme=tokyonight" />
+</a>
 
+ <img width="400" src="https://i.ibb.co/gzknvnq/react-Memory-Game-Img.png" alt="react-Memory-Game-Img" border="0">
+ <a href="https://github.com/NAJIB-B/memory-game-react">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=NAJIB-B&repo=memory-game-react&theme=tokyonight" />
+</a>
+</p>
+<br />
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NAJIB-B&repo=najibquiz)](https://github.com/NAJIB-B/najibquiz)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NAJIB-B&repo=memory-game-react)](https://github.com/NAJIB-B/memory-game-react)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=NAJIB-B)](https://git.io/streak-stats)
 
