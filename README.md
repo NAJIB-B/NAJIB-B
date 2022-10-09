@@ -57,11 +57,11 @@
  <a href="https://github.com/NAJIB-B/memory-game-react">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=NAJIB-B&repo=memory-game-react&theme=tokyonight" />
 </a>
-<img width="400" src="https://i.ibb.co/02TKMdX/tic-Tac-Toe.png" alt="tic-Tac-Toe" border="0">
+<img width="400" src="https://i.ibb.co/mJbZd7n/tic-tac-toe.png" alt="tic-tac-toe" border="0">
  <a href="https://github.com/NAJIB-B/tic-tac-toe">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=NAJIB-B&repo=tic-tac-toe&theme=tokyonight" />
 </a>
-<img width="400" src="https://i.ibb.co/CBy0tYy/weather-App.png" alt="weather-App" border="0">
+<img width="400" src="https://i.ibb.co/PzmBVVv/weather-App.png" alt="weather-App" border="0">
  <a href="https://github.com/NAJIB-B/weatherApp">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=NAJIB-B&repo=weatherApp&theme=tokyonight" />
 </a>
