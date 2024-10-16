@@ -4,17 +4,18 @@
  <p align="center">
  <a href="https://twitter.com/najib2557"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
  <a href="www.linkedin.com/in/muhammad-najib-bala-92a343230"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <!--
 <a href="https://muhammadnajib.netlify.app"><img src="https://img.shields.io/badge/PORTFOLIO-CC6699?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>&nbsp;
 <a href="https://leetcode.com/NAJIB-B/"><img src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode" alt="Leetcode" /></a>&nbsp;
-<a href="https://najibbala.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" /></a>&nbsp;
+<a href="https://najibbala.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" /></a>&nbsp; -->
 </p>
 <br />
 
 
-<p align="center"> I am a backend engineer interested in building cool stuffs and simplifying complex problems </p>
+<h4 align="center"> I am a backend engineer interested in building cool stuffs and simplifying complex problems </h4>
 
 
-<h3 align="center"> 💼 Languages and Tools</h3>
+<h2 align="center"> 💼 Technologies</h3>
 
 <br />
 
