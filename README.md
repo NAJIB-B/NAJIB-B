@@ -46,11 +46,13 @@
 <br />
 <p align="center">
 
-   <a href="https://github.com/NAJIB-B/simple-E-commerce-API ">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=NAJIB-B&repo=simple-E-commerce-API&theme=tokyonight" />
+
+
+   <a href="https://github.com/NAJIB-B/Expense-tracker-API ">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=NAJIB-B&repo=Expense-tracker-API&theme=tokyonight" />
 </a>
 
- <a href="https://github.com/NAJIB-B/real-time-polling-app">
+ <a href="https://github.com/NAJIB-B/real-time-polling-app ">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=NAJIB-B&repo=real-time-polling-app&theme=tokyonight" />
 </a>
 
