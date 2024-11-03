@@ -25,6 +25,7 @@
 
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://shields.io/badge/react-black?logo=react&style=for-the-badge" />
 
 
 <img src="https://img.shields.io/badge/typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white" />
