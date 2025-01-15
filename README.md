@@ -12,7 +12,7 @@
 <br />
 
 
-<h4 align="center"> I am a backend engineer interested in building cool stuffs and simplifying complex problems </h4>
+<h4 align="center"> I am a fullstack solana engineer interested in building cool stuffs and simplifying complex problems </h4>
 
 
 <h2 align="center"> 💼 Technologies</h3>
