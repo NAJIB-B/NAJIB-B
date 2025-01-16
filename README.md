@@ -15,61 +15,7 @@
 <h4 align="center"> I am a fullstack solana engineer interested in building cool stuffs and simplifying complex problems </h4>
 
 
-<h2 align="center"> 💼 Technologies</h3>
 
-<br />
-
-<p align="center">
-
-
-
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://shields.io/badge/react-black?logo=react&style=for-the-badge" />
-
-
-<img src="https://img.shields.io/badge/typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
-
-
-
-
-
-</p>
-
-<br />
-
-<h2 align="center">My recent projects 💻</h2>
-<br />
-<p align="center">Check them out, I bet it will be fun</p>
-<br />
-<br />
-<p align="center">
-
-
-
-
-   <a href="https://github.com/NAJIB-B/fitness-workout-tracker ">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=NAJIB-B&repo=fitness-workout-tracker&theme=tokyonight" />
-</a>
-
-  <a href="https://github.com/NAJIB-B/simple-E-commerce-API ">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=NAJIB-B&repo=simple-E-commerce-API&theme=tokyonight" />
-</a>
-
- <a href="https://github.com/NAJIB-B/real-time-polling-app ">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=NAJIB-B&repo=real-time-polling-app&theme=tokyonight" />
-</a>
-
- <a href="https://github.com/NAJIB-B/url-shortener">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=NAJIB-B&repo=url-shortener&theme=tokyonight" />
-</a>
- <a href="https://github.com/NAJIB-B/markdown-note-taking-App">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=NAJIB-B&repo=markdown-note-taking-App&theme=tokyonight" />
-</a>
-</p>
-<br />
 
 
 <h2 align="center">About me 😇</h2>
@@ -83,19 +29,7 @@
 <p>:ghost: Fun fact: ... I use neovim by the way</p>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NAJIB-B&theme=tokyonight&showicons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=NAJIB-B)](https://git.io/streak-stats)
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NAJIB-B&langs_count=5&theme=tokyonight)]()
-
-
-
-<br />
-<p align="center">
-I love connecting with different people, so say hi! I'll be happy to meet you more! 😊
-</p>
-
-<br />
 
 <!---
 NAJIB-B/NAJIB-B is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
